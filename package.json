@@ -1,0 +1,22 @@
+{
+  "name": "vscode-scratch",
+  "scripts": {
+    "repl": "while true; do ts-node -e 'console.clear(); console.log(\"ready\")' -i; sleep 0; done",
+    "webpack": "webpack"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "pug3-loader": "^2.4.3",
+    "css-loader": "^6.5.1",
+    "mini-css-extract-plugin": "^2.4.5",
+    "file-loader": "^6.2.0",
+    "ts-loader": "^9.2.6",
+    "style-loader": "^3.3.1",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.5.0",
+    "dotenv-webpack": "^7.0.3"
+  }
+}
