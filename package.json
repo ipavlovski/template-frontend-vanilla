@@ -8,15 +8,17 @@
     "dotenv": "^16.0.0"
   },
   "devDependencies": {
-    "pug3-loader": "^2.4.3",
     "css-loader": "^6.5.1",
-    "mini-css-extract-plugin": "^2.4.5",
+    "dotenv-webpack": "^7.0.3",
     "file-loader": "^6.2.0",
-    "ts-loader": "^9.2.6",
-    "style-loader": "^3.3.1",
     "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.4.5",
+    "pug3-loader": "^2.4.3",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0",
+    "style-loader": "^3.3.1",
+    "ts-loader": "^9.2.6",
     "webpack-cli": "^4.9.1",
-    "webpack-dev-server": "^4.5.0",
-    "dotenv-webpack": "^7.0.3"
+    "webpack-dev-server": "^4.5.0"
   }
 }
