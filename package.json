@@ -8,11 +8,13 @@
     "dotenv": "^16.0.0"
   },
   "devDependencies": {
+    "@prettier/plugin-pug": "^1.20.0",
     "css-loader": "^6.5.1",
     "dotenv-webpack": "^7.0.3",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.4.5",
+    "prettier": "^2.6.0",
     "pug3-loader": "^2.4.3",
     "sass": "^1.49.9",
     "sass-loader": "^12.6.0",
